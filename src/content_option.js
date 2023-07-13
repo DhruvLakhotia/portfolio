@@ -1,4 +1,4 @@
-const logotext = "JOHN";
+const logotext = "DHRUV";
 const meta = {
     title: "Dhruv Lakhotia",
     description: "I’m Dhruv Lakhotia , final year Engineering student at The LNM Institute of Information Technology",
